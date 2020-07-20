@@ -5,9 +5,9 @@
 <hibernate-configuration>
 	<session-factory>
 	  <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
-	  <property name="connection.url">jdbc:mysql://localhost:3306/mycart</property>
+	  <property name="connection.url">jdbc:mysql://localhost:3306/ecogreen</property>
 	  <property name="connection.username">root</property>
-	  <property name="connection.password">1234</property>
+	  <property name="connection.password">7678304367</property>
 	  <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
 	  <property name="hbm2ddl.auto">update</property>
 	  
