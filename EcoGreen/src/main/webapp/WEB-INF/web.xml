@@ -5,13 +5,5 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
-  	<servlet-name>LoginServlet</servlet-name>
-  	<display-name>LoginServlet</display-name>
-  	<description></description>
-  	<servlet-class>com.ecogreen.servlet.LoginServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-  	<servlet-name>LoginServlet</servlet-name>
-  	<url-pattern>/LoginServlet</url-pattern>
   </servlet-mapping>
 </web-app>
