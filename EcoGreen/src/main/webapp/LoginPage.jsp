@@ -44,7 +44,7 @@
   %>  
                --%>         
  <div class="card-body">
-      <form id="login-form" action="login_servlet" method="post">
+      <form id="login-form" action="LoginServlet" method="post">
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
     <input name="email" required type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
