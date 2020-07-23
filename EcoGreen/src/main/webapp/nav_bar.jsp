@@ -31,7 +31,7 @@
       </li>
         </li>
         <li class="nav-item">
-        <a class="nav-link " href="register.jsp"><span class="fa fa-user-plus"></span>SignUp</a>
+        <a class="nav-link " href="Register.jsp"><span class="fa fa-user-plus"></span>SignUp</a>
       </li>
       
     </ul>
